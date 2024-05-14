@@ -14,7 +14,12 @@
 * *MSSV*: 22521309
 * *Khoa*: Khoa học máy tính
 * *Lớp sinh hoạt*: KHMT.04
-
+# Danh sách thành viên:
+| Họ và tên      | MSSV | Lớp     |
+| :----:        |    :----:   |          :----: |
+| [Phạm Huỳnh Nhật Tân](https://github.com/tanphn?tab=repositories)      | 22521309       | CS114.O21  |
+| [Phạm Nguyễn Anh Tuấn](https://github.com/nguoimay1103?tab=repositories)   | 22521610        | CS114.O21     |
+| [Lê Thanh Tùng](https://github.com/nguoimay1103?tab=repositories)   | 22521617        | CS114.O21     |
 ## GIỚI THIỆU MÔN HỌC
 <a name="gioithieumonhoc"></a>
 * *Tên môn học*: Máy học - MACHINE LEARNING
