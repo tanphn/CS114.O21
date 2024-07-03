@@ -32,9 +32,9 @@
 <a name="giangvien"></a>
 * PGS.TS. *Lê Đình Duy* - duydl@uit.edu.vn
 * ThS. *Phạm Nguyễn Trường An* - truonganpn@uit.edu.vn
-1. Trang github của nhóm (đặt tên repos là mã lớp học-MSSV, ví dụ CS114.O21-MSSV):
+### 1. Trang github của nhóm (đặt tên repos là mã lớp học-MSSV, ví dụ CS114.O21-MSSV):
 
-2. Đồ án cuối kỳ: MotocycleClassification
+### 2. Đồ án cuối kỳ: MotocycleClassification
 - Tổng số lượng ảnh đóng góp: 267 (Honda: 53, Suzuki: 54, Yamaha: 51, VinFast: 42, Others: 67).
   + Phương pháp thu thập ảnh: Hình ảnh được thu thập từ Internet, hội nhóm mua bán xe cũ trên Facebook, trang web của các đại lý bán xe.
   + Cách làm sạch dữ liệu ảnh: Những hình ảnh mờ, kích thước quá nhỏ hoặc quá to, xe chiếm dưới 70% tổng thể bức ảnh sẽ được loại bỏ thủ công.
@@ -44,14 +44,14 @@
 - Framework, thư viện sử dụng: os, pandas, numpy, tensorflow,torchvision, pathlib, PIL, torch, sklearn, cv2, random, csv, matplotlib, MobileNetV2,
 - Kết quả Accuracy: split1: 72.41, split2: 71.87, split3: 72.02, split4: 73.29, split5: 72.41.
 
-3. Danh sách các bài thực hành đã làm - điền thời điểm (ngày, giờ) nộp bài trên Classroom:
+### 3. Danh sách các bài thực hành đã làm - điền thời điểm (ngày, giờ) nộp bài trên Classroom:
 - Thống kê dữ liệu (CS114.Tool.DatasetStat.ipynb): 2:40 AM, Jun 08
 - Tạo các splits (CS114.Tool.CreateSplit.ipynb): Jun 9
 - Hiển thị các ảnh (CS114.Tool.DatasetViz.ipynb): Jun 9
 - Ứng dụng Clustering (CS114.Clustering.ipynb): Jun 10
 - Đánh giá Model (CS114.Evaluation.ipynb): Jun 14
 
-4. Bài tập - Dự đoán điểm IT001
+### 4. Bài tập - Dự đoán điểm IT001
 - Mô tả về đặc trưng:
   + attend: Tổng số lượng problem mà user đó đã tham gia
   + attend_rate: Tỉ lệ tham gia của user đó (Tổng số lượng problem tham gia / Tổng số lượng problem có trong từng assignment mà user đó tham gia).
@@ -70,7 +70,7 @@
     + Dự đoán điểm thực hành: 27/100
     + Dự đoán điểm quá trình: 11/100
     + Dự đoán điểm cuối kì: 18/100
-5. Bài tập - Nhận dạng chữ số viết tay
+### 5. Bài tập - Nhận dạng chữ số viết tay
 - Mô tả về dữ liệu đóng góp: Dữ liệu gồm 3 ảnh cho mỗi số từ 0 đến 9, được chụp từ chữ viết tay của mỗi sinh viên. Tổng cộng 30 ảnh trên mỗi sinh viên
 - Mô tả về đặc trưng và thuật toán học
   + Thuật toán học: chúng em sử dụng mô hình như trong file thầy đã cung cấp.
